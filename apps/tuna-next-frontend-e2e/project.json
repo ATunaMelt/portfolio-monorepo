@@ -1,0 +1,9 @@
+{
+  "name": "tuna-next-frontend-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/tuna-next-frontend-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["tuna-next-frontend"],
+  "// targets": "to see all targets run: nx show project tuna-next-frontend-e2e --web",
+  "targets": {}
+}
